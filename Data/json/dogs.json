@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Ralf",
+        "age": 2,
+        "race": "the dog",
+        "gender": "Male",
+        "city": "Halmstad",
+        "description": "Common traits include loyalty, affection, and a strong desire to please their owners.",
+        "status": 1
+    },
+    {
+        "id": 2,
+        "name": "Dina",
+        "age": 1,
+        "race": "Chihuahuas",
+        "gender": "Female",
+        "city": "Malmo",
+        "description": "Dogs provide emotional support, companionship, and can even offer therapeutic benefits. ",
+        "status": 1
+    },
+    {
+        "id": 3,
+        "name": "Jukki",
+        "age": 4,
+        "race": "Great Danes.",
+        "gender": "Male",
+        "city": "Värnamo",
+        "description": "ukki is a magnificent Great Dane with a striking presence. At 4 years old, he's in the prime of his life, exuding both youthful energy and the wisdom that comes with age.",
+        "status": 1
+    }
+]
